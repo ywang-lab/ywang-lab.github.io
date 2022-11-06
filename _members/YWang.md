@@ -2,7 +2,7 @@
 name: Ying Wang, Ph.D.
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/taoni2021.jpeg
+image: /docs/members/YW.jpg
 position: Principal Investigator
 #current:
 pronouns: she/her/hers
