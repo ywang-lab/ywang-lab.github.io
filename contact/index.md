@@ -89,7 +89,7 @@ group: contact
 
 <div align="center">
 
-![logo](/docs/images/hkumed.png){:width="500px"}
+![logo](/docs/images/med-SUSTECH.png){:width="500px"}
 </div>
 
 </div>
