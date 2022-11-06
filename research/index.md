@@ -72,9 +72,10 @@ American Heart Association Postdoctoral Fellowship.
 ### Research Topic 3
 
 
-Membrane Attack Complex (MAC)/perforin family proteins represent an important ans conserved pore-forming proteins involved in immunity and defense. They form giant pores on membrane, following a dramatic transition between prepore to pore. We have determined several key structures by X-ray crystallography and cryoEM, cryoET subtomogram averaging (Ni et al 2018, Science Advances, Ni et al 2020, Science Advances).
+The integrative control of intracellular catecholamine for subcellular β1AR signaling and cardiac function is lacking of investigation and presents as a promosing therapeutic target for HF. I have determined the regulation of compartmentalized β1AR-PKA signaling at the SR and plasma membrane (PM) microdomains by organic cation transporter 3 (OCT3) and monoamine oxidase A (MAO-A), two critical modulators of catecholamine uptake and homeostasis. 
 
-We are continuing to solve the puzzle of pore-forming proteins, focusing on perforin-2. More interesting story is comming soon...
+Our results show that MAO-A and OCT3 act in concert to fine-tune the intracellular β1AR-PKA signaling and cardiac fight-or-flight response. Further, we reveal a drug contraindication between anti-inflammatory
+corticosterone and anti-depressant MAOi in modulating adrenergic regulation in the heart, providing novel perspectives of these drugs with cardiac implications.
 
 </div>
 
@@ -92,13 +93,7 @@ We are continuing to solve the puzzle of pore-forming proteins, focusing on perf
 <div class="row">
 <div class="col-md-7 order-md-2" style="margin-top: 0px;">
 
-Cryo-electron tomography (cryoET) has gained increasing importance to study molecular architectures of viruses, bacteria and cellular components in situ. It can provide structures of macromolecular complexes in situ and in cellular context at or below subnanometer resolution. Combined with cryo-focused ion beam (cryo-FIB) milling for sample preparation this has led to unprecedented insights into the inner working of molecular machines in their native environment, as well as their functional relevant conformations and spatial distribution within biological cells or tissues. Despite its rapid development in recent years, many hardware and software are still evolving to address the increasing challenges due to the complexity of biological systems.
 
-We are looking for candidates with strong interest in data processing and software development. The specific projects will be determined together with PI and student and potential directions include but not limit to:
-
-* Development of hardware and software for automated high-throughput cryoET data collection and pre-processing;  
-* Method development for cryoET data analysis and subtomogram averaging, such as using Artificial Intelligence (AI) based approach for target recognition;  
-* Methods development and optimization for cryogenic correlative light and electron microscopy (cryo-CLEM).  
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
