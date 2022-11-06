@@ -26,7 +26,7 @@ group: contact
   [School of Medicine](https://med.sustech.edu.cn/index.html?lang=en-us)<br>
   South University of Science and Technology<br>
   Shenzhen, Zip Code xxx <br>
-  email: xxxx (at) xxxx.edu.cn <br>
+  email:  wangy6 AT sustech.edu.cn <br>
   tel: 123 456 789
 </div>
 
@@ -79,7 +79,7 @@ group: contact
 
 * Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!   
 
-* Please feel free to contact: tao.ni AT strubi.ox.ac.uk or tao.ni2014 AT gmail.com   
+* Please feel free to contact: wangy6 AT sustech.edu.cn    
 * Our lab is very very new...   
 
 * A lot of updates will follow....   

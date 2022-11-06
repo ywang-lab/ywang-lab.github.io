@@ -1,5 +1,5 @@
 ---
-title: Publications from the Ni Lab
+title: Publications from the Wang Lab
 layout: default
 group: publications
 ---
@@ -8,7 +8,7 @@ group: publications
 # Publications
 
 
-Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Google Scholar](xxx.com)
+Full pulblication list in [ORCID](https://orcid.org/0000-0002-8566-875X) and [Google Scholar](https://scholar.google.com/citations?user=9ankzb4AAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -35,7 +35,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 1. Zhang QY, Wang ZJ, Sun DM, **Wang Y**, Xu P, Wu WJ, Liu XH, Zhu YZ. Novel Therapeutic effects of leonurine on ischemic stroke: New Mechanisms of BBB Integrity. Oxid Med Cell Longev. 2017;2017:7150376.  
 
 1. Xu B, **Wang Y**, Bahriz SMFM, Zhao M, Zhu C, Xiang YK. Probing spatiotemporal PKA activity at the ryanodine receptor and SERCA2a nanodomains in cardomyocytes. Cell Commun Signal. 2022 Sep 14;20(1):143.   
-
+{: reversed="reversed"}
 
 
 
