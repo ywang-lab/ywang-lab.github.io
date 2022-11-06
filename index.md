@@ -9,15 +9,14 @@ group: home
 # Welcome to the Wang Lab
 {: .display-4}
 
-We are a cryoEM/ET group focusing on macromolecular assemblies and host-pathogen interfaces using an integrative structural biology approach including x-ray crystallography, cryoEM, cryoCLEM, cryoFIB milling and cryoET subtomogram averaging...
+We are a cardiac signaling group focusing on the spatial compartmentalization and heterogeneity of GPCR signaling in cardiac physiology and pathology.
 {: .welcomefont}
 
 
-
-Our Research focuses on...
+We aim to define patient-specific therapeutic strategies for heart diseases targeting the spatiotemporal regulation of GPCR signaling and Ca2+ in diverse cardiac pathogenesis (e.g. HF with reduced ejection fraction (HFrEF), HF with preserved ejection fraction (HFpEF), inflammation, etc.) and to provide innovative therapeutic strategies for cardiac diseases
 {: .welcomefont}
 
-We are located in xxx 
+We are located in SUSTech University, Shenzhen.
 {: .welcomefont}
 ---
 
