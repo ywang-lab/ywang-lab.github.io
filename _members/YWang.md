@@ -14,5 +14,5 @@ twitter: NiLab_HKUMed
 linkedin:
 github:
 orcid: 0000-0001-7268-0306
-description: "Tao is an Assistant Professor in the School of Biomedical Sciences at HKU from 2022. Prior to joining to HKU, he was a postdoctoral research fellow at the University of Oxford and visitor scientist at eBIC working on HIV capsid and carboxysomes using cryoEM and cryoET subtomogram averaging. He completed his Bachelor in Biological Sciences degree in Nankai University (2008-2012) and PhD in structural biology in the University of Oxford (2012-2016)."
+description: "Wang is now an Assistant Professor in the School of Medicine  at SUSTech from 2022. Prior to joining to SUSTech, she was a postdoctoral research fellow at the University of California, Davis working on cardiac physiology and pathology using genetically encoded FRET-based biosensors, optical imaging and transgenetic mouse models.  She completed her Bachelor in Pharmaceutical Engineering degree in Guizhou University (2008-2012) and PhD in Cardiovasuclar Pharmacology in the Fudan University (2012-2016)."
 ---

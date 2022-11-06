@@ -13,38 +13,30 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0001-7268-0306) and [Go
 ---
 
 
-1. **Ni T\***, Zhu Y\*, Yang Z\*, Xu C, Chaban Y, Nesterova T, Ning J, Bocking T, Parker M, Monnie C, Ahn J, Perilla, Zhang P. Structure of native HIV-1 cores and their interactions with IP6 and CypA. Science Advances (in press).  
+1. **Wang Y**, Zhao M, Xu B, Bahriz SMF, Zhu C, Jovanovic A, Ni H, Jacobi A, Kaludercic N, Di Lisa F, Hell JW, Shih JC, Paolocci N, Xiang YK. Monoamine oxidase A and organic cation transporter 3 coordinate intracellular β1AR signaling to calibrate cardiac contractile function. Basic Res Cardiol. 2022;117:37   
 
-2. **Ni T\***, Frosio T, Mendonca L, Sheng Y, Clare D, Himes B, Zhang P. High-resolution in situ structure determination by cryo-electron tomography and subtomogram averaging using emClarity. Nature Protocols (in press).
+1. **Wang Y**, Zhao M, Shi Q, Xu B, Zhu C, Li M, Mir V, Bers DM, Xiang YK. Monoamine Oxidases Desensitize Intracellular β1AR Signaling in Heart Failure. Circ Res. 129 (10), 965-967.   
 
-1. Mendonça L, Howe A, Gilchrist JB, Sheng Y, Sun D, Knight ML, Zanetti-Domingues LC, Bateman B, Krebs AS, Chen L, Radecke J, Li VD, **Ni T**, Kounatidis I, Koronfel MA, Szynkiewicz M, Harkiolaki M, Martin-Fernandez ML, James W, Zhang P. Correlative multi-scale cryo-imaging unveils SARS-CoV-2 assembly and egress. Nat Commun. 2021 Jul 30;12(1):4629. doi: 0.1038/s41467-021-24887-y. PMID: 34330917; PMCID: PMC8324836.
+1. **Wang Y***, Shi Q*, Li M, Zhao M, Reddy GR, Teoh JP, Xu B, Zhu CQ, Ireton KE, Srinivasan S, Chen SL, Gasser PJ, Bossuyt J, Hell JW, Bers DM, Xiang YK. Intracellular β1-Adrenergic eceptors and Organic Cation Transporter 3 Mediate Phospholamban Phosphorylation to Enhance Cardiac Contractility. Circ Res. 2020 Nov; DOI: 10.1161/CIRCRESAHA.120.317452.   
 
-1. Huokko T, **Ni T**, Dykes GF, Simpson DM, Brownridge P, Conradi FD, Beynon RJ, Nixon PJ, Mullineaux CW, Zhang P, Liu LN. Probing the biogenesis pathway and dynamics of thylakoid membranes. Nat Commun. 2021 Jun 9;12(1):3475. doi: 10.1038/s41467-021-23680-1. PMID: 34108457; PMCID: PMC8190092.
+1. Wang Q, **Wang Y**, West TM, Liu Y, Reddy GR, Barbagallo F, Xu B, Shi Q, Deng B, Wei W, Xiang YK. Carvedilol induces biased β1 adrenergic receptor-Nitric oxide synthase 3-cyclic guanylyl monophosphate signaling to promote cardiac contractility. Cardiovasc Res. 2020 Sep 21; doi: 10.1093/cvr/cvaa266.  
 
-1. Zhang P, Mendonca L, Howe A, Gilchrist J, Sun D, Knight M, Zanetti-Domingues L, Bateman B, Krebs AS, Chen L, Radecke J, Sheng Y, Li V, **Ni T**, Kounatidis I, Koronfel M, Szynkiewicz M, Harkiolaki M, Martin-Fernandez M, James W. Correlative Multi-scale Cryo-imaging Unveils SARS-CoV-2 Assembly and Egress. Res Sq [Preprint]. 2021 Jan 19:rs.3.rs-134794. doi: 10.21203/rs.3.rs-134794/v1. Update in: Nat Commun. 2021 Jul 30;12(1):4629. PMID: 33501431; PMCID: PMC7836121.
+1. Xu B, Li M, **Wang Y**, Zhao M, Morotti S, Shi Q, Wang Q, Barbagallo F, Teoh JP, Reddy GR, Bayne EF, Liu Y, Shen A, Puglisi JL, Ge Y, Li J, Grandi E, Nieves-Cintron M, Xiang YK. GRK5 Controls SAP97-Dependent Cardiotoxic β1 adrenergic receptor-CaMKII signaling in heart failure. Circ Res. 2020 Aug 28;127(6):796-810. doi: 10.1161/CIRCRESAHA.119.316319.   
+1. Reddy GR, West TM, Jian Z, Jaradeh M, Shi Q, **Wang Y**, Chen-Izu Y, Xiang YK. Illuminating cell signaling with genetically encoded FRET biosensors in adult mouse cardiomyocytes. J Gen Physiol. 2018 Nov 5;150(11):1567-1582. doi: 10.1085/jgp.201812119.     
 
-1. Liu C, Mendonça L, Yang Y, Gao Y, Shen C, Liu J, **Ni T**, Ju B, Liu C, Tang X, Wei J, Ma X, Zhu Y, Liu W, Xu S, Liu Y, Yuan J, Wu J, Liu Z, Zhang Z, Liu L, Wang P, Zhang P. The Architecture of Inactivated SARS-CoV-2 with Postfusion Spikes Revealed by Cryo-EM and Cryo-ET. Structure. 2020 Nov 3;28(11):1218-1224.e4. doi: 10.1016/j.str.2020.10.001. Epub 2020 Oct 15. PMID: 33058760; PMCID: PMC7557167.
+1. **Wang Y**, Cao Y, Zhu Q, Gu X, Zhu YZ. The discovery of a novel inhibitor of apoptotic protease activating factor-1 (Apaf-1) for ischemic heart: synthesis, activity and target identification. Sci Rep. 2016 Jul 22;6:29820.   
 
-1. **Ni T**, Gerard S, Zhao G, Dent K, Ning J, Zhou J, Shi J, Anderson-Daniels J, Li W, Jang S, Engelman AN, Aiken C, Zhang P. Intrinsic curvature of the HIV-1 CA hexamer underlies capsid topology and interaction with cyclophilin A. Nat Struct Mol Biol. 2020 Sep;27(9):855-862. doi: 10.1038/s41594-020-0467-8. Epub 2020 Aug 3. PMID: 32747784; PMCID: PMC8064030.
+1. **Wang Y**, Zhong L, Liu X, Zhu YZ. ZYZ-772 Prevents Cardiomyocyte Injury by Suppressing nox4-derived ROS production and apoptosis. Molecules. 2017 Feb 21;22(2). doi: 10.3390/molecules22020331.aax8286. doi: 10.1126/sciadv.aax8286. PMID: 32064340; PMCID: PMC6989145.    
 
-1. **Ni T\***, Jiao F\*, Yu X\*, Aden S, Ginger L, Williams SI, Bai F, Pražák V, Karia D, Stansfeld P, Zhang P, Munson G, Anderluh G, Scheuring S, Gilbert RJC. Structure and mechanism of bactericidal mammalian perforin-2, an ancient agent of innate immunity. Sci Adv. 2020 Jan 29;6(5):eaax8286. doi: 10.1126/sciadv.aax8286. PMID: 32064340; PMCID: PMC6989145.
+1. **Wang Y**, Zhang Q, Zhong L, Lin M, Luo X, Liu S, Xu P, Liu X, Zhu YZ. Apoptotic Protease activating factor-1 inhibitor mitigates myocardial ischemia injury via disturbing procaspase-9 recruitment by Apaf-1. Oxid Med Cell Longev. 2017;2017:9747296.
 
-1. Hao Y, Zhou D, **Ni T**, Karia D, Kotecha A, Wang X, Rao Z, Jones EY, Fry EE, Ren J, Stuart DI. Hand-foot-and-mouth disease virus receptor KREMEN1 binds the canyon of Coxsackie Virus A10. Nat Commun. 2020 Jan 7;11(1):38. doi:10.1038/s41467-019-13936-2. PMID: 31911601; PMCID: PMC6946704.
+1. Zhang QY, Wang ZJ, Miao L, **Wang Y**, Chang LL, Guo W, Zhu YZ. Neuroprotective Effect of SCM-198 through stabilizing endothelial cell function. Oxid Med Cell Longev. 2019;2019:7850154.   
 
-1. **Ni T**, Williams SI, Rezelj S, Anderluh G, Harlos K, Stansfeld PJ, Gilbert RJC. Structures of monomeric and oligomeric forms of the Toxoplasma gondii perforin-like protein 1. Sci Adv. 2018 Mar 21;4(3):eaaq0762. doi: 10.1126/sciadv.aaq0762. PMID: 29750191; PMCID: PMC5943054.
+1. Zhang QY, Wang ZJ, Sun DM, **Wang Y**, Xu P, Wu WJ, Liu XH, Zhu YZ. Novel Therapeutic effects of leonurine on ischemic stroke: New Mechanisms of BBB Integrity. Oxid Med Cell Longev. 2017;2017:7150376.  
 
-1. **Ni T**, Gilbert RJC. Repurposing a pore: highly conserved perforin-like proteins with alternative mechanisms. Philos Trans R Soc Lond B Biol Sci. 2017 Aug 5;372(1726):20160212. doi: 10.1098/rstb.2016.0212. PMID: 28630152; PMCID: PMC5483515.
+1. Xu B, **Wang Y**, Bahriz SMFM, Zhao M, Zhu C, Xiang YK. Probing spatiotemporal PKA activity at the ryanodine receptor and SERCA2a nanodomains in cardomyocytes. Cell Commun Signal. 2022 Sep 14;20(1):143.   
 
-1. **Ni T**, Kalli AC, Naughton FB, Yates LA, Naneh O, Kozorog M, Anderluh G, Sansom MS, Gilbert RJ. Structure and lipid-binding properties of the kindlin-3 pleckstrin homology domain. Biochem J. 2017 Feb 15;474(4):539-556. doi: 10.1042/BCJ20160791. Epub 2016 Dec 14. PMID: 27974389; PMCID: PMC5290484.
 
-1. Kong Y, Janssen BJ, Malinauskas T, Vangoor VR, Coles CH, Kaufmann R, **Ni T**, Gilbert RJ, Padilla-Parra S, Pasterkamp RJ, Jones EY. Structural Basis for Plexin Activation and Regulation. Neuron. 2016 Aug 3;91(3):548-60. doi: 10.1016/j.neuron.2016.06.018. Epub 2016 Jul 7. PMID: 27397516; PMCID: PMC4980550.
-
-1. Lu J, Fang L, Zheng H, Lao J, Yang F, Sun L, Xiao J, Lin J, Song T, **Ni T**, Raghwani J, Ke C, Faria NR, Bowden TA, Pybus OG, Li H. The Evolution and Transmission of Epidemic GII.17 Noroviruses. J Infect Dis. 2016 Aug 15;214(4):556-64. doi: 10.1093/infdis/jiw208. Epub 2016 May 24. PMID: 27354370; PMCID: PMC4957445.
-
-1. **Ni T**, Harlos K, Gilbert R. Structure of astrotactin-2: a conserved vertebrate-specific and perforin-like membrane protein involved in neuronal development. Open Biol. 2016 May;6(5):160053. doi: 10.1098/rsob.160053. Epub 2016 May 4. PMID: 27249642; PMCID: PMC4892435.
-
-1. Yu ZQ, **Ni T**, Hong B, Wang HY, Jiang FJ, Zou S, Chen Y, Zheng XL, Klionsky DJ, Liang Y, Xie Z. Dual roles of Atg8-PE deconjugation by Atg4 in autophagy. Autophagy. 2012 Jun;8(6):883-92. doi: 10.4161/auto.19652. Epub 2012 Jun 1. PMID: 22652539; PMCID: PMC3427254.
-{: reversed="reversed"}
 
 
 

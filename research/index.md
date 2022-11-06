@@ -14,7 +14,7 @@ Defining novel therapeutic strategies for cardiovascular diseases, the leading c
 mice, I have provided multiple promising molecular targets for rescuing cardiac dysfunction targeting local adrenergic signaling at nanodomains and contributed to the successful translation of a drug candidate, SCM-198 from bench to bedside. 
 
 
-#### This page lists some of the past projects and on-going future projects. Please feel free to contact tao.ni2014 AT gmail.com for discussion.
+#### This page lists some of the past projects and on-going future projects. Please feel free to contact wangy6 AT sustech.edu.cn for discussion.
 
 
 ---
