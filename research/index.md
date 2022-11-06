@@ -10,7 +10,8 @@ group: research
 # Research in the Wang Lab
 
 ---
-The long-term goals of our research are to understand xxx.  
+Defining novel therapeutic strategies for cardiovascular diseases, the leading cause of death worldwide, has long been a key area in my own work. By integrating the state-of-art technologies including super-resolution microscopy, single-molecule pulldown (SiM-pull), fluorescence resonance energy transfer (FRET) Microscopy (FRET), diverse animal models (myocardial infarction) induced ischemic heart model, high-fat-diet-induced diabetic cardiomyopathy model ,and chronic β-adrenergic stimulation induced heart failure model), and transgenic
+mice, I have provided multiple promising molecular targets for rescuing cardiac dysfunction targeting local adrenergic signaling at nanodomains and contributed to the successful translation of a drug candidate, SCM-198 from bench to bedside. 
 
 
 #### This page lists some of the past projects and on-going future projects. Please feel free to contact tao.ni2014 AT gmail.com for discussion.
@@ -23,7 +24,10 @@ The long-term goals of our research are to understand xxx.
 
 ### Research Topic 1
 
-HIV capsid plays key roles in HIV replication and is a major platform engaging host dependency and restriction factors. Our previous work determined high-resolution structures of in vitor assembled HIV capsid tube in complex with host cell factor Cyclophilin A, elucidating the mechanism of capsid assembly and curvature sensing (Ni et al 2020 NSMB; Ni et al 2021 Science Advances, in press).
+Cardiac contraction is orchestrated by compartmentalization of β-adrenergic signaling at distinct subcellular nanodomains. The highly organized architecture in cardiomyocytes provides spatial context for the subcellular localized cAMP/PKA signaling in the regulation of sophisticated EC-coupling, a process of heart to contract and relax. To visualize the cAMP/PKA nano-domains, we have developed a serial of genetical encoded Förster resonance energy transfer (FRET)-based biosensors anchoring at the distinct subcellular locations including
+plasma membrane (PM), sarcoplasmic reticulum (SR), myofilament (MF), and nuclear envelop. By collaborating with the world-leading
+experts, Prof. Donald M. Bers and Prof. Johannes W Hell and utilizing these powerful tools as well as the cutting-edge technologies, super-resolution imaging, proximity ligation assay (PLA, Figure 2), and singlemolecule pulldown (SIM), I discovered a pool of
+intracellular β-adrenergic receptors (βAR) at the SR is essential for PKA-phosphorylation of phospholamban and cardiac contractility (Wang et al 2021a Circulation Research). 
 
 </div>
 <div class="col-md-5 align-self-center"  style="margin: 0px">
@@ -37,7 +41,9 @@ HIV capsid plays key roles in HIV replication and is a major platform engaging h
 <div class="row" style="margin: 0px;">
 
 ### Research Topic 2
-
+Desensitization of β1AR signaling and depressed cardiac contractility are hallmarks of heart failure (HF). Therefore, we asked whether the SR-localized β1ARs are engaged in the HF. Using the HFrEF (HF with reduced ejection fraction) model induced by chronic adrenergic stimulation and an ischemic HF model induced by myocardial infarction, I found the elevation of monoamine oxidase A (MAO-A) desensitized
+intracellular β1ARs signaling in HF (Wang et al 2021b Circulation Research). Knockout or inhibition of MAO-A resensitizes intracellular β1AR signaling and inotropic responsiveness in failing mice (Wang, Circulation, Under review). My investigation of MAO-A-mediated intracellular β1AR/PKA signal cascade was granted by the prestigious
+American Heart Association Postdoctoral Fellowship.
 
 </div>
 <div class="row">
@@ -45,11 +51,6 @@ HIV capsid plays key roles in HIV replication and is a major platform engaging h
 <div class="col-md-7 order-md-2">
 
 
-Over the last two decades, there were three outbreaks for severe coronavirus infection in humans including the current pandemic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is responsible for the Coronavirus Disease 2019 (COVID-19). With the global health and economic burden due to Covid-19, it is increasingly urgent to understand the coronavirus life cycle and pathogenesis in molecular level.
-
-Coronavirus undergoes a complicated life cycle in the host cell and makes a significant rearrangement of host membranes. It transforms host membranes into double-membrane vesicles (DMVs) which may form a framework for viral genome replication by localizing and concentrating the necessary factors and possibly providing protection from host cell defenses. Specifically, the membrane remodelling and formation of DMVs are induced by a few non-structural proteins (Nsp3, Nsp4 and Nsp6), conserved in coronavirus family. These proteins form a putative pore complex on the DMVs, potentially mediating genome transport after new genomes are synthesized and messenger RNAs are produced inside the DMVs. The pore may serve as a scaffold for the assembly of the membrane-associated replication/transcription complex (RTC), a large multi-subunit assembly that is comprised of more than a dozen proteins. We aim to understand the role of Nsp3 pore complex and DMV in coronavirus life cycle.
-
-The project will use a combination of biochemical and structural biology approach. We are looking for candidates who are interested in virology and/or structural biology including cryoEM single particle analysis and cryoET subtomogram averaging. 
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">

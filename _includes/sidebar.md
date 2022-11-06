@@ -3,15 +3,15 @@
 
 Ying Wang, Ph.D.  
 Assistant Professor  
-School of Medicine 
-Faculty of Pharmacology  
-Southern University of Science and Technology 
+School of Medicine  
+Faculty of Pharmacology   
+Southern University of Science and Technology  
 
-email: ywang6@sustech.edu.cn
+email: wangy6@sustech.edu.cn
 
 
-1088 XueYuan Road 
-Chuangyuan No7, Rm506    
+1088 XueYuan Road    
+Chuangyuan No7, Rm506     
 Shenzhen, China，518067   
 
 ---
