@@ -31,7 +31,7 @@ intracellular β-adrenergic receptors (βAR) at the SR is essential for PKA-phos
 
 </div>
 <div class="col-md-5 align-self-center"  style="margin: 0px">
-<img class="img-fluid" src="/docs/research/hiv.jpg" alt="hiv">
+<img class="img-fluid" src="/docs/labwebsite_photos/F1.png" alt="hiv">
 </div>
 </div>
 
@@ -40,16 +40,16 @@ intracellular β-adrenergic receptors (βAR) at the SR is essential for PKA-phos
 
 <div class="row" style="margin: 0px;">
 
-### Research Topic 2
-Desensitization of β1AR signaling and depressed cardiac contractility are hallmarks of heart failure (HF). Therefore, we asked whether the SR-localized β1ARs are engaged in the HF. Using the HFrEF (HF with reduced ejection fraction) model induced by chronic adrenergic stimulation and an ischemic HF model induced by myocardial infarction, I found the elevation of monoamine oxidase A (MAO-A) desensitized
-intracellular β1ARs signaling in HF (Wang et al 2021b Circulation Research). Knockout or inhibition of MAO-A resensitizes intracellular β1AR signaling and inotropic responsiveness in failing mice (Wang, Circulation, Under review). My investigation of MAO-A-mediated intracellular β1AR/PKA signal cascade was granted by the prestigious
-American Heart Association Postdoctoral Fellowship.
 
 </div>
 <div class="row">
 
 <div class="col-md-7 order-md-2">
+### Research Topic 2
 
+Desensitization of β1AR signaling and depressed cardiac contractility are hallmarks of heart failure (HF). Therefore, we asked whether the SR-localized β1ARs are engaged in the HF. Using the HFrEF (HF with reduced ejection fraction) model induced by chronic adrenergic stimulation and an ischemic HF model induced by myocardial infarction, I found the elevation of monoamine oxidase A (MAO-A) desensitized
+intracellular β1ARs signaling in HF (Wang et al 2021b Circulation Research). Knockout or inhibition of MAO-A resensitizes intracellular β1AR signaling and inotropic responsiveness in failing mice (Wang, Circulation, Under review). My investigation of MAO-A-mediated intracellular β1AR/PKA signal cascade was granted by the prestigious
+American Heart Association Postdoctoral Fellowship.
 
 </div>
 
@@ -57,7 +57,7 @@ American Heart Association Postdoctoral Fellowship.
 
 
 
-<img class="img-fluid" src="/docs/research/cpis.jpg" alt="cpis">
+<img class="img-fluid" src="/docs/labwebsite_photos/photo_2.png" alt="cpis">
 </div>
 </div>
 
@@ -67,7 +67,7 @@ American Heart Association Postdoctoral Fellowship.
 <div class="row">
 
 
-<div class="col-md-6 order-md-1 " style="margin: 0px">
+<div class="col-md-7 order-md-1 " style="margin: 0px">
 
 ### Research Topic 3
 
@@ -75,13 +75,16 @@ American Heart Association Postdoctoral Fellowship.
 The integrative control of intracellular catecholamine for subcellular β1AR signaling and cardiac function is lacking of investigation and presents as a promosing therapeutic target for HF. I have determined the regulation of compartmentalized β1AR-PKA signaling at the SR and plasma membrane (PM) microdomains by organic cation transporter 3 (OCT3) and monoamine oxidase A (MAO-A), two critical modulators of catecholamine uptake and homeostasis. 
 
 Our results show that MAO-A and OCT3 act in concert to fine-tune the intracellular β1AR-PKA signaling and cardiac fight-or-flight response. Further, we reveal a drug contraindication between anti-inflammatory
-corticosterone and anti-depressant MAOi in modulating adrenergic regulation in the heart, providing novel perspectives of these drugs with cardiac implications.
+corticosterone and anti-depressant MAOi in modulating adrenergic regulation in the heart, providing novel perspectives of these drugs with cardiac implications.  
 
 </div>
 
-<div class="col-md-6 order-md-2 align-self-center">
-
-<img class="img-fluid" src="/docs/research/macpf.jpg" alt="macpf">
+<div class="col-md-5 order-md-2 align-self-center">
+<picture>
+<img class="img-fluid" src="/docs/labwebsite_photos/photo_3.png" style="max-height: 10%;">
+</picture>
+<!-- <img src="/docs/labwebsite_photos/photo_3.png" 
+     style="max-height: 50%;" /> -->
 </div>
 </div>
 
@@ -96,9 +99,9 @@ corticosterone and anti-depressant MAOi in modulating adrenergic regulation in t
 
 </div>
 
-<div class="col-md-5 order-md-1 align-self-center">
+<div class="col-md- order-md-1 align-self-center">
 
-<img class="img-fluid" src="/docs/research/method.png" alt="method">
+<img class="img-fluid" src="/docs/labwebsite_photos/photo_4.png" alt="method">
 </div>
 </div>
 

@@ -28,7 +28,7 @@
 }
 
 .smalltxt {
-  font-size: 0.95rem;
+  font-size: 1.1rem;
 }
 
 .mem-icon {
@@ -41,7 +41,7 @@
 
 .navbar {
   margin-bottom: 20px;
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 .welcomefont {
@@ -79,10 +79,14 @@
 
 p{
 
- font-size: 1rem;
+ font-size: 1.1rem;
  /*text-align: justify;*/
 
  }
+
+.body {
+      font-family: "Times New Roman", Times, serif;
+}
 
 /*
 body {

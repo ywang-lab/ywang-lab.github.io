@@ -36,28 +36,28 @@ We are located in SUSTech University, Shenzhen.
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block image-fluid" src="/docs/images/macpf.jpg" alt="First slide" style="width:700px;height:500px">  
+      <img class="d-block image-fluid" src="/docs/labwebsite_photos/F1.png" alt="First slide" style="width:700px;height:500px">  
       <div class="carousel-caption d-none d-md-block" style="color:black">
        <h5 class="myh5">descriptions of first image</h5>
        <!-- <p>descriptions of first image</p> -->
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block image-fluid" src="/docs/images/hiv.jpg"  alt="Second slide" style="width:700px;height:500px">
+      <img class="d-block image-fluid" src="/docs/labwebsite_photos/photo_2.png"  alt="Second slide" style="width:700px;height:500px">
             <div class="carousel-caption d-none d-md-block" style="color:black">
              <h5 class="myh5">descriptions of second image</h5>
             <!-- <p>descriptions of first image</p> -->
           </div>
         </div>
     <div class="carousel-item">
-      <img class="d-block image-fluid" src="/docs/images/cis.jpg"  alt="Third slide" style="width:700px;height:500px">
+      <img class="d-block image-fluid" src="/docs/labwebsite_photos/photo_3.png"  alt="Third slide" style="width:700px;height:500px">
                   <div class="carousel-caption d-none d-md-block" style="color:black">
              <h5 class="myh5">descriptions of third image</h5>
             <!-- <p>descriptions of first image</p> -->
            </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block image-fluid" src="/docs/images/method.png"  alt="Fourth slide" style="width:700px;height:500px">
+      <img class="d-block image-fluid" src="/docs/labwebsite_photos/photo_4.png"  alt="Fourth slide" style="width:700px;height:500px">
                         <div class="carousel-caption d-none d-md-block" style="color:black">
              <h5 class="myh5">descriptions of 4th image</h5>
             <!-- <p>descriptions of first image</p> -->
