@@ -3,8 +3,8 @@
 
 Ying Wang, Ph.D.  
 Associate Professor  
+Department of Pharmacology  
 School of Medicine  
-Faculty of Pharmacology   
 Southern University of Science and Technology  
 
 email: wangy6@sustech.edu.cn
