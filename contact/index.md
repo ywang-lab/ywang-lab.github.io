@@ -21,7 +21,7 @@ group: contact
 <div class="col-md-4 col-ms-4">
 
   <h4>Ying Wang, Ph.D.</h4>
-  Assistant Professor<br>
+  Associate Professor<br>
   [Department of Pharmacology](https://med.sustech.edu.cn/about/yxsz/id/44.html?lang=zh-cn)<br>
   [School of Medicine](https://med.sustech.edu.cn/index.html?lang=en-us)<br>
   South University of Science and Technology<br>

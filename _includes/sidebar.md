@@ -2,7 +2,7 @@
 ## Contact Us
 
 Ying Wang, Ph.D.  
-Assistant Professor  
+Associate Professor  
 School of Medicine  
 Faculty of Pharmacology   
 Southern University of Science and Technology  
