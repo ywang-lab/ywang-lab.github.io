@@ -20,7 +20,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0002-8566-875X) and [Go
 
 1. **Wang Y**, Zhao M, Shi Q, Xu B, Zhu C, Li M, Mir V, Bers DM, Xiang YK. Monoamine Oxidases Desensitize Intracellular β1AR Signaling in Heart Failure. Circ Res. 129 (10), 965-967.   
 
-1. **Wang Y***, Shi Q*, Li M, Zhao M, Reddy GR, Teoh JP, Xu B, Zhu CQ, Ireton KE, Srinivasan S, Chen SL, Gasser PJ, Bossuyt J, Hell JW, Bers DM, Xiang YK. Intracellular β1-Adrenergic eceptors and Organic Cation Transporter 3 Mediate Phospholamban Phosphorylation to Enhance Cardiac Contractility. Circ Res. 2020 Nov; DOI: 10.1161/CIRCRESAHA.120.317452.   
+1. **Wang Y\***, Shi Q\*, Li M, Zhao M, Reddy GR, Teoh JP, Xu B, Zhu CQ, Ireton KE, Srinivasan S, Chen SL, Gasser PJ, Bossuyt J, Hell JW, Bers DM, Xiang YK. Intracellular β1-Adrenergic eceptors and Organic Cation Transporter 3 Mediate Phospholamban Phosphorylation to Enhance Cardiac Contractility. Circ Res. 2020 Nov; DOI: 10.1161/CIRCRESAHA.120.317452.   
 
 1. Wang Q, **Wang Y**, West TM, Liu Y, Reddy GR, Barbagallo F, Xu B, Shi Q, Deng B, Wei W, Xiang YK. Carvedilol induces biased β1 adrenergic receptor-Nitric oxide synthase 3-cyclic guanylyl monophosphate signaling to promote cardiac contractility. Cardiovasc Res. 2020 Sep 21; doi: 10.1093/cvr/cvaa266.  
 
