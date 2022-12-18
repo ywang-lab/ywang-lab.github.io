@@ -12,6 +12,9 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0002-8566-875X) and [Go
 
 ---
 
+1. Deng BQ\*, Zhang Y\*, Zhu CQ\*, **Wang Y**, Weatherford E, Xu B, Conway S, Abel ED, and Xiang YK. Divergent actions of myofibroblast and myocyte beta2-adrenoceptor signaling in heart failure and fibrotic remodeling. Circ Res. 2022 Dec; DOI: 10.1161/CIRCRESAHA.122.321816
+ 
+1. Lu, H., Zhang, C., Li, Y. and **Wang, Y.** (2022), Mitochondria dysfunction in the failing right heart: what is the potential therapeutic target?. J Physiol. Accepted Author Manuscript. https://doi.org/10.1113/JP283977
 
 1. **Wang Y**, Zhao M, Xu B, Bahriz SMF, Zhu C, Jovanovic A, Ni H, Jacobi A, Kaludercic N, Di Lisa F, Hell JW, Shih JC, Paolocci N, Xiang YK. Monoamine oxidase A and organic cation transporter 3 coordinate intracellular β1AR signaling to calibrate cardiac contractile function. Basic Res Cardiol. 2022;117:37   
 
@@ -22,6 +25,7 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0002-8566-875X) and [Go
 1. Wang Q, **Wang Y**, West TM, Liu Y, Reddy GR, Barbagallo F, Xu B, Shi Q, Deng B, Wei W, Xiang YK. Carvedilol induces biased β1 adrenergic receptor-Nitric oxide synthase 3-cyclic guanylyl monophosphate signaling to promote cardiac contractility. Cardiovasc Res. 2020 Sep 21; doi: 10.1093/cvr/cvaa266.  
 
 1. Xu B, Li M, **Wang Y**, Zhao M, Morotti S, Shi Q, Wang Q, Barbagallo F, Teoh JP, Reddy GR, Bayne EF, Liu Y, Shen A, Puglisi JL, Ge Y, Li J, Grandi E, Nieves-Cintron M, Xiang YK. GRK5 Controls SAP97-Dependent Cardiotoxic β1 adrenergic receptor-CaMKII signaling in heart failure. Circ Res. 2020 Aug 28;127(6):796-810. doi: 10.1161/CIRCRESAHA.119.316319.   
+
 1. Reddy GR, West TM, Jian Z, Jaradeh M, Shi Q, **Wang Y**, Chen-Izu Y, Xiang YK. Illuminating cell signaling with genetically encoded FRET biosensors in adult mouse cardiomyocytes. J Gen Physiol. 2018 Nov 5;150(11):1567-1582. doi: 10.1085/jgp.201812119.     
 
 1. **Wang Y**, Cao Y, Zhu Q, Gu X, Zhu YZ. The discovery of a novel inhibitor of apoptotic protease activating factor-1 (Apaf-1) for ischemic heart: synthesis, activity and target identification. Sci Rep. 2016 Jul 22;6:29820.   
