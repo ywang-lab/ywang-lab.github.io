@@ -7,6 +7,9 @@ paginate: 5
 plugins: [jekyll-paginate]
 paginate_path: "news/page:num"
 
+google_analytics: G-6VV690GE33
+
+
 permalink: pretty
 markdown: kramdown
 kramdown:
