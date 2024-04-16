@@ -13,11 +13,11 @@ Full pulblication list in [ORCID](https://orcid.org/0000-0002-8566-875X) and [Go
 ---
 1. Xiang W, Lu H, Shen A, Ni H, **Wang Y**. Nuclear β-adrenergic signaling microdomain alleviates diabetic kidney fibrosis by YAP inactivation. British Journal of Pharmacology (In revision).
 
-1. **Wang Y**, Zhao M, Liu XH, Xu B, Rivera G, Xiang YK. Nitric oxide synthase isoforms dictate a biased and compartmentalized adrenergic signaling to promote cardiac contractility. JACC: Basic to Translational Science (Accpted).
+1. **Wang Y**, Zhao M, Liu XH, Xu B, Rivera G, Xiang YK. Carvedilol Activates a Myofilament Signaling Circuitry to Restore Cardiac contractility in Heart failure. JACC: Basic to Translational Science (Accpted).
 
 1. Fu Q, **Wang Y**, Yan C, Xiang YK. Phosphodiesterases in heart and vessels- From Physiology to Diseases. Physiol Rev. 2023.
 
-1. Bing Xu, **Ying Wang**, Chaoqun Zhu, Meimi Zhao, Yu Zhang, Bingqing Deng, Zhenduo Zhu; Qiuyun Guan, Nipavan Chiamvimonvat, Qingtong Wang, and Yang K. Xiang. HFrEF and HFpEF model-specific remodeling of subcellular PKA signaling at the ryanodine receptors and SERCA2a. Journal of the American Heart Association (Accpted). 
+1. Bing Xu, **Ying Wang**, Chaoqun Zhu, Meimi Zhao, Yu Zhang, Bingqing Deng, Zhenduo Zhu; Qiuyun Guan, Nipavan Chiamvimonvat, Qingtong Wang, and Yang K. Xiang. Differential downregulation of subcellular specific beta1-adrenergic receptor signaling in the heart. Journal of the American Heart Association (Accpted). 
 
 1. Wenjing Xiang1\*, Xingyun Wang1\*, Lei Li1, Junhui Zeng1, Haocheng Lu1&, Ying Wang1&, Unveiling Catecholamine Dynamics in Cardiac Health and Disease: Mechanisms, Implications, and Future Perspectives. International Journal of Drug Discovery and Pharmacology 2023.
 
