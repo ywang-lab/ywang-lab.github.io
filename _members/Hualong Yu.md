@@ -2,7 +2,7 @@
 name: Hualong Yu
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/Hualong Yu.jpg
+image: ./docs/members/Hualong Yu.jpg
 position: Postgraduate Student
 #current:
 pronouns: he/his/him

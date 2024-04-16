@@ -2,7 +2,7 @@
 name: Manman Qin
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/Manman Qin.jpg
+image: ./docs/members/Manman Qin.jpg
 position: Visiting student 
 #current:
 pronouns: she/her/hers

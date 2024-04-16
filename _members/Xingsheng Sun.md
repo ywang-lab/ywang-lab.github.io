@@ -2,7 +2,7 @@
 name: Xingsheng Sun
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/Xingsheng Sun.jpg
+image: ./docs/members/Xingsheng Sun.jpg
 position: Visiting student
 #current:
 pronouns: he/his/him

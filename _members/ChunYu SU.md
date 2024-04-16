@@ -2,7 +2,7 @@
 name: ChunYu SU
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/ChunYu SU.jpg
+image: ./docs/members/ChunYu SU.jpg
 position: Visiting student 
 #current:
 pronouns: she/her/hers

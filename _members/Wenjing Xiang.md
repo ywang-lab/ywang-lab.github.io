@@ -2,7 +2,7 @@
 name: Wenjing Xiang
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/Wenjing Xiang.jpg
+image: ./docs/members/Wenjing Xiang.jpg
 position: Research Assistant  
 #current:
 pronouns: he/his/him

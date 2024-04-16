@@ -3,7 +3,7 @@ order: 2
 name: YueQiu Lee, M.S.
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/Yueqiu.jpg
+image: ./docs/members/Yueqiu.jpg
 position: Research Assistant
 #current:
 pronouns: she/her/hers

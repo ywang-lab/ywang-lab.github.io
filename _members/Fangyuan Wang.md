@@ -2,7 +2,7 @@
 name: Fangyuan Wang
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: /docs/members/Fangyuan Wang.jpg
+image: ./docs/members/Fangyuan Wang.jpg
 position: Visiting student 
 #current:
 pronouns: she/her/hers
