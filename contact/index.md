@@ -26,7 +26,7 @@ group: contact
   [School of Medicine](https://med.sustech.edu.cn/index.html?lang=en-us)<br>
   South University of Science and Technology<br>
   Shenzhen, Zip Code 518055 <br>
-  email:  wangy6 AT sustech.edu.cn <br>
+  email:  wangy6@sustech.edu.cn <br>
   tel: 
 </div>
 
