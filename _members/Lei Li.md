@@ -3,7 +3,7 @@ order: 3
 name: Lei Li
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: ./docs/members/Lei Li.jpg
+image: /docs/members/Lei Li.jpg
 position: Postdoctoral Researcher
 #current:
 pronouns: he/his/him

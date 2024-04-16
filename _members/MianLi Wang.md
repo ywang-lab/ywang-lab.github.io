@@ -2,7 +2,7 @@
 name: MianLi Wang
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: ./docs/members/MianLi Wang.jpg
+image: /docs/members/MianLi Wang.jpg
 position: undergraduate student 
 #current:
 pronouns: she/her/hers

@@ -2,7 +2,7 @@
 name: SiYuan Ni
 startdate: [xxx-xxx-xxx]
 enddate: []
-image: ./docs/members/SiYuan Ni.jpg
+image: /docs/members/SiYuan Ni.jpg
 position: Undergraduate Student 
 #current:
 pronouns: he/his/him
