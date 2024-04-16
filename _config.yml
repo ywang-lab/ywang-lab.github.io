@@ -33,6 +33,7 @@ collections:
                 output: true
         members:
                 output: true
+                sort_by: order
         publications:
                 output: true
         reviews:
