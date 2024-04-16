@@ -12,10 +12,10 @@ Speaker: Prof.YiZhun Zhu
 Topic: Is PKA a target for heart disease treatment?
 Speaker: Prof.XiongWen Chen
 
-<img src="/docs/images/Lecture03.jpg" alt="image01" style="max-width: 400px; max-height: 250px;">
+<img src="/docs/images/Lecture03.jpg" alt="image01" style="max-width: 500px; max-height: 350px;">
 
-<img src="/docs/images/Lecture04.jpg" alt="image01" style="max-width: 400px; max-height: 250px;">
+<img src="/docs/images/Lecture04.jpg" alt="image01" style="max-width: 500px; max-height: 350px;">
 
-<img src="/docs/images/Lecture05.jpg" alt="image01" style="max-width: 400px; max-height: 250px;">
+<img src="/docs/images/Lecture05.jpg" alt="image01" style="max-width: 500px; max-height: 350px;">
 
 
