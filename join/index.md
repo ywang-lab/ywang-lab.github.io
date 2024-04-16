@@ -8,7 +8,7 @@ group: join
 
 
 Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!
-Please feel free to email us: xxx@xx.com.
+Please feel free to email us: wangy6@sustech.edu.cn.
 
 Our lab welcomes applicants all backgrounds...
 

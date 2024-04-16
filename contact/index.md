@@ -11,10 +11,10 @@ group: contact
 <div class="col-md-4 col-ms-4">
 
 #### Lab Area
-  [Department of xxx ](Link)<br>
+  [Department of Pharamcology](https://med.sustech.edu.cn/index.html)<br>
   Address<br>
   City<br>
-  tel: 123 456 789
+  tel: 0755(8801)5679
 
 </div>
 
@@ -25,9 +25,9 @@ group: contact
   [Department of Pharmacology](https://med.sustech.edu.cn/about/yxsz/id/44.html?lang=zh-cn)<br>
   [School of Medicine](https://med.sustech.edu.cn/index.html?lang=en-us)<br>
   South University of Science and Technology<br>
-  Shenzhen, Zip Code xxx <br>
-  email:  wangy6 AT sustech.edu.cn <br>
-  tel: 123 456 789
+  Shenzhen, Zip Code 518055 <br>
+  email:  wangy6@sustech.edu.cn <br>
+  tel: 
 </div>
 
 <div class="col-md-4 col-ms-4">
@@ -36,7 +36,7 @@ group: contact
   Position<br>
   [Department](link)<br>
   email: name at com<br>
-  tel: 1234 345 789<br>
+  tel: <br>
 
 </div>
 
@@ -79,7 +79,7 @@ group: contact
 
 * Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!   
 
-* Please feel free to contact: wangy6 AT sustech.edu.cn    
+* Please feel free to contact: wangy6@sustech.edu.cn    
 * Our lab is very very new...   
 
 * A lot of updates will follow....   
