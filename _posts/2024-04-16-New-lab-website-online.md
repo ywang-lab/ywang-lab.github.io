@@ -5,10 +5,9 @@ layout: post
 group: news
 ---
 
-Our new lab website is online.  
-Welcome Yueqiu to join us.
-Ying is now an associate professor.
+Happy Party Time!
 ![image01](/docs/images/partytime01.jpg)
+![image01](/docs/images/partytime02.jpg)
 
  <!-- <img src="/docs/images/partytime01.jpg" alt="Day 1" class="img-fluid">
  <img src="/docs/images/partytime02.jpg" alt="Day 1" class="img-fluid">
