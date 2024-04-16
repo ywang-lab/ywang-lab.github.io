@@ -4,7 +4,7 @@ name: Fangyuan Wang
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/members/Fangyuan Wang.jpg
-position: Visiting student 
+position: Visiting Student 
 #current:
 pronouns: she/her/hers
 email: fywang.bio@gmail.com

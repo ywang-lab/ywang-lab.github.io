@@ -45,14 +45,14 @@ We are located in SUSTech University, Shenzhen.
     <div class="carousel-item">
       <img class="d-block image-fluid" src="./docs/labwebsite_photos/photo_2.png"  alt="Second slide" style="width:700px;height:500px">
             <div class="carousel-caption d-none d-md-block" style="color:black">
-             <h5 class="myh5">descriptions of second image</h5>
+             <h5 class="myh5"> </h5>
             <!-- <p> </p> -->
           </div>
         </div>
     <div class="carousel-item">
       <img class="d-block image-fluid" src="./docs/labwebsite_photos/photo_3.png"  alt="Third slide" style="width:700px;height:500px">
                   <div class="carousel-caption d-none d-md-block" style="color:black">
-             <h5 class="myh5">descriptions of third image</h5>
+             <h5 class="myh5"> </h5>
             <!-- <p> </p> -->
            </div>
     </div>

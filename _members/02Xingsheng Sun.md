@@ -4,7 +4,7 @@ name: Xingsheng Sun
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/members/Xingsheng Sun.jpg
-position: Visiting student
+position: Postdoctoral Researcher
 #current:
 pronouns: he/his/him
 email: 969118311@qq.com

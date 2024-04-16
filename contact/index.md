@@ -11,10 +11,10 @@ group: contact
 <div class="col-md-4 col-ms-4">
 
 #### Lab Area
-  [Department of xxx ](Link)<br>
-  Address<br>
-  City<br>
-  tel: 123 456 789
+  [Department of Pharamcology ](https://med.sustech.edu.cn/index.html)<br>
+  Address <br>
+  City <br>
+  tel: 0755£¨8801£©5679
 
 </div>
 

@@ -4,7 +4,7 @@ name: Manman Qin
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/members/Manman Qin.jpg
-position: Visiting student 
+position: Lecturer 
 #current:
 pronouns: she/her/hers
 email: 15180429680@163.com

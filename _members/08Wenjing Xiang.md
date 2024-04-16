@@ -4,7 +4,7 @@ name: Wenjing Xiang
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/members/Wenjing Xiang.jpg
-position: Research Assistant  
+position: Doctoral students  
 #current:
 pronouns: he/his/him
 email: xwj18779237590@163.com

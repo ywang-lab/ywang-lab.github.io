@@ -4,7 +4,7 @@ name: ChunYu SU
 startdate: [xxx-xxx-xxx]
 enddate: []
 image: /docs/members/ChunYu SU.jpg
-position: Visiting student 
+position: Research Assistant 
 #current:
 pronouns: she/her/hers
 email: sucy@mail.sustech.edu.cn
