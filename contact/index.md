@@ -25,9 +25,9 @@ group: contact
   [Department of Pharmacology](https://med.sustech.edu.cn/about/yxsz/id/44.html?lang=zh-cn)<br>
   [School of Medicine](https://med.sustech.edu.cn/index.html?lang=en-us)<br>
   South University of Science and Technology<br>
-  Shenzhen, Zip Code xxx <br>
+  Shenzhen, Zip Code 518055 <br>
   email:  wangy6 AT sustech.edu.cn <br>
-  tel: 123 456 789
+  tel: 
 </div>
 
 <div class="col-md-4 col-ms-4">
@@ -36,7 +36,7 @@ group: contact
   Position<br>
   [Department](link)<br>
   email: name at com<br>
-  tel: 1234 345 789<br>
+  tel: <br>
 
 </div>
 
