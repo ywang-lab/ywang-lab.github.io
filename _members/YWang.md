@@ -1,6 +1,5 @@
 ---
 order: 1
----
 name: Ying Wang, Ph.D.
 startdate: [xxx-xxx-xxx]
 enddate: []

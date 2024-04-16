@@ -1,6 +1,5 @@
 ---
 order: 2
----
 name: YueQiu Lee, M.S.
 startdate: [xxx-xxx-xxx]
 enddate: []
