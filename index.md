@@ -6,7 +6,7 @@ group: home
 
 
 
-# Welcome to the Wang Lab!
+#  Welcome to the Wang Lab!
 {: .display-4}
 
 We are a cardiac signaling group focusing on the spatial compartmentalization and heterogeneity of GPCR signaling in cardiac physiology and pathology.
