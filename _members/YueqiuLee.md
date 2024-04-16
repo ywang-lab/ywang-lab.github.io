@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Page 1
 order: 2
 name: YueQiu Lee, M.S.
 startdate: [xxx-xxx-xxx]

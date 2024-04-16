@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Page 1
 order: 1
 name: Ying Wang, Ph.D.
 startdate: [xxx-xxx-xxx]

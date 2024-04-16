@@ -1,7 +1,7 @@
 name: "YWang Lab"
 description: "This is the official webpage for the YWang Lab at SusTech Med."
 
-# url: "https://www.ywanglab.org"
+url: "https://www.ywanglab.org"
 
 paginate: 5
 plugins: [jekyll-paginate]
