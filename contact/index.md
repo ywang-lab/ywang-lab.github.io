@@ -11,7 +11,7 @@ group: contact
 <div class="col-md-4 col-ms-4">
 
 #### Lab Area
-  [Department of Pharamcology ](https://med.sustech.edu.cn/index.html)<br>
+  [Department of Pharamcology](https://med.sustech.edu.cn/index.html)<br>
   Address <br>
   City <br>
   tel: 0755(8801)5679
