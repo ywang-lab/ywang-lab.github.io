@@ -14,7 +14,7 @@ group: contact
   [Department of Pharamcology ](https://med.sustech.edu.cn/index.html)<br>
   Address <br>
   City <br>
-  tel: 0755£¨8801£©5679
+  tel: 0755(8801)5679
 
 </div>
 
