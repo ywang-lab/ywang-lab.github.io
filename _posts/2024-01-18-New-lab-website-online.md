@@ -1,5 +1,5 @@
 ---
-title:  Lecture Information
+title:  "Lecture: Atheroprone Effect of Disturbed shear stress"
 author: Ying Wang
 layout: post
 group: news

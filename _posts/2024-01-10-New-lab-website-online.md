@@ -1,5 +1,5 @@
 ---
-title: Lecture Information
+title: "Lecture: Reflections on the scientific research of material medicine"
 author: Ying Wang
 layout: post
 group: news

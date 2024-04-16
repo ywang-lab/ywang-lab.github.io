@@ -1,5 +1,5 @@
 ---
-title: Lecture Information
+title: "Lecture: Inflammation and Immunity: From Drugs to Cell Therapy And Is PKA a target for heart disease treatment?"
 author: Ying Wang
 layout: post
 group: news
