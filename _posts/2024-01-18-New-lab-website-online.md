@@ -5,17 +5,11 @@ layout: post
 group: news
 ---
 
-On January 14, 2024, Professor Wang Ying invited Professor YiZhun Zhu from Macau University of Science and Technology and Professor XiongWen Chen from Tianjin Medical University, to give a lecture at the university.
+On January 18, 2024, Professor Wang Ying invited Professor Yi Zhu, Tianjin Medical University, to give a lecture at the university.The lecture topic is Atheroprone Effect of Disturbed shear stress.
 
-Topic: Inflammation and Immunity: From Drugs to Cell Therapy
-Speaker: Prof.YiZhun Zhu
-Topic: Is PKA a target for heart disease treatment?
-Speaker: Prof.XiongWen Chen
+<img src="/docs/images/Lecture01.jpg" alt="image01" style="max-width: 400px; max-height: 250px;">
 
-
-![image01](/docs/images/Lecture01.jpg)
-
-![image02](/docs/images/Lecture02.jpg)
+<img src="/docs/images/Lecture02.jpg" alt="image01" style="max-width: 400px; max-height: 250px;">
 
 
 
