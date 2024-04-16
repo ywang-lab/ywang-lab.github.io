@@ -79,7 +79,7 @@ group: contact
 
 * Welcome to our lab! We are looking for highly motivated PhD students and postdoc fellows from diverse backgrounds to join us!   
 
-* Please feel free to contact: wangy6 AT sustech.edu.cn    
+* Please feel free to contact: wangy6@sustech.edu.cn    
 * Our lab is very very new...   
 
 * A lot of updates will follow....   
